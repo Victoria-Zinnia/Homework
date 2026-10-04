@@ -1,0 +1,52 @@
+<RCC>
+    <qresource prefix="/">
+        <!-- 角色立绘 -->
+        <file>assets/images/char/主角_陆令晞本元.png</file>
+        <file>assets/images/char/陆昭芃_春栖.png</file>
+        <file>assets/images/char/陆昭芃_无根.png</file>
+        <file>assets/images/char/陆安泫_观澜.png</file>
+        <file>assets/images/char/陆安泫_羁澜.png</file>
+        <file>assets/images/char/陆祐禾_秋衡.png</file>
+        <file>assets/images/char/陆祐禾_空蘅.png</file>
+        <file>assets/images/char/陆融霏_归晞.png</file>
+        <file>assets/images/char/陆融霏_寒绾.png</file>
+        <file>assets/images/char/苏堇纾_normal.png</file>
+        <file>assets/images/char/苏堇纾_corrupt.png</file>
+        <file>assets/images/char/顾知澜_normal.png</file>
+        <file>assets/images/char/顾知澜_corrupt.png</file>
+        <file>assets/images/char/姜寄蘅_normal.png</file>
+        <file>assets/images/char/姜寄蘅_corrupt.png</file>
+        <file>assets/images/char/谢云绾_normal.png</file>
+        <file>assets/images/char/谢云绾_corrupt.png</file>
+
+        <!-- 场景背景 -->
+        <file>assets/images/bg/开机页.jpg</file>
+        <file>assets/images/bg/标题页.jpg</file>
+        <file>assets/images/bg/轮回大厅.jpg</file>
+        <file>assets/images/bg/春之庭.jpg</file>
+        <file>assets/images/bg/春之庭_黑化.jpg</file>
+        <file>assets/images/bg/夏之阁.jpg</file>
+        <file>assets/images/bg/夏之阁_黑化.jpg</file>
+        <file>assets/images/bg/秋之祠.jpg</file>
+        <file>assets/images/bg/秋之祠_黑化.jpg</file>
+        <file>assets/images/bg/冬之坛.jpg</file>
+        <file>assets/images/bg/冬之坛_黑化.jpg</file>
+        <file>assets/images/bg/结局页.jpg</file>
+
+        <!-- CG插图 -->
+        <file>assets/images/cg/CG_S1回忆.jpg</file>
+        <file>assets/images/cg/CG_S2回忆.jpg</file>
+        <file>assets/images/cg/CG_S3回忆.jpg</file>
+        <file>assets/images/cg/CG_S4回忆.jpg</file>
+
+        <!-- 道具图标 -->
+        <file>assets/images/items/花残瓣.png</file>
+        <file>assets/images/items/青芜绳.png</file>
+        <file>assets/images/items/春时旧簪.png</file>
+        <file>assets/images/items/观澜手记残页.png</file>
+        <file>assets/images/items/济世药草残株.png</file>
+        <file>assets/images/items/嵌玉发梳.png</file>
+        <file>assets/images/items/梅纹围脖.png</file>
+        <file>assets/images/items/木雕小牌.png</file>
+    </qresource>
+</RCC>

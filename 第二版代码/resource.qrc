@@ -1,0 +1,162 @@
+<RCC>
+    <qresource prefix="/">
+        <!-- ±³¾°Í¼ -->
+        <file>assets/images/bg/¿ª»úÒ³.jpg</file>
+        <file>assets/images/bg/±êÌâÒ³.jpg</file>
+        <file>assets/images/bg/ÂÖ»Ø´óÌü.jpg</file>
+        <file>assets/images/bg/´ºÖ®Í¥.jpg</file>
+        <file>assets/images/bg/´ºÖ®Í¥_ºÚ»¯.jpg</file>
+        <file>assets/images/bg/ÏÄÖ®¸ó.jpg</file>
+        <file>assets/images/bg/ÏÄÖ®¸ó_ºÚ»¯.jpg</file>
+        <file>assets/images/bg/ÇïÖ®ìô.jpg</file>
+        <file>assets/images/bg/ÇïÖ®ìô_ºÚ»¯.jpg</file>
+        <file>assets/images/bg/¶¬Ö®Ì³.jpg</file>
+        <file>assets/images/bg/¶¬Ö®Ì³_ºÚ»¯.jpg</file>
+        <file>assets/images/bg/½á¾ÖÒ³.jpg</file>
+
+        <!-- ½ÇÉ«Á¢»æ -->
+        <file>assets/images/char/ËÕİÀç£_corrupt.png</file>
+        <file>assets/images/char/ËÕİÀç£_normal.png</file>
+        <file>assets/images/char/¹ËÖªÀ½_corrupt.png</file>
+        <file>assets/images/char/¹ËÖªÀ½_normal.png</file>
+        <file>assets/images/char/½ª¼ÄŞ¿_corrupt.png</file>
+        <file>assets/images/char/½ª¼ÄŞ¿_normal.png</file>
+        <file>assets/images/char/Ğ»ÔÆçº_corrupt.png</file>
+        <file>assets/images/char/Ğ»ÔÆçº_normal.png</file>
+
+        <!-- Æ¤·ô£¨Èç¹ûÖ®ºó¸Ä³ÉÓ¢ÎÄÃû£¬ÕâÀïÍ¬²½¸Ä£© -->
+        <file>assets/images/char/Ö÷½Ç_Â½Áî•„±¾Ôª.png</file>
+        <file>assets/images/char/Â½ÕÑÆM_´ºÆÜ.png</file>
+        <file>assets/images/char/Â½ÕÑÆM_ÎŞ¸ù.png</file>
+        <file>assets/images/char/Â½°²ãù_¹ÛÀ½.png</file>
+        <file>assets/images/char/Â½°²ãù_î¿À½.png</file>
+        <file>assets/images/char/Â½µvºÌ_Çïºâ.png</file>
+        <file>assets/images/char/Â½µvºÌ_¿ÕŞ¿.png</file>
+        <file>assets/images/char/Â½ÈÚö­_¹é•„.png</file>
+        <file>assets/images/char/Â½ÈÚö­_º®çº.png</file>
+
+        <!-- CG -->
+        <file>assets/images/cg/CG_S1»ØÒä.jpg</file>
+        <file>assets/images/cg/CG_S2»ØÒä.jpg</file>
+        <file>assets/images/cg/CG_S3»ØÒä.jpg</file>
+        <file>assets/images/cg/CG_S4»ØÒä.jpg</file>
+
+        <!-- µÀ¾ß -->
+        <file>assets/images/items/»¨²Ğ°ê.png</file>
+        <file>assets/images/items/ÇàÎßÉş.png</file>
+        <file>assets/images/items/´ºÊ±¾Éô¢.png</file>
+        <file>assets/images/items/¹ÛÀ½ÊÖ¼Ç²ĞÒ³.png</file>
+        <file>assets/images/items/¼ÃÊÀÒ©²İ²ĞÖê.png</file>
+        <file>assets/images/items/Ç¶Óñ·¢Êá.png</file>
+        <file>assets/images/items/Ã·ÎÆÎ§²±.png</file>
+        <file>assets/images/items/Ä¾µñĞ¡ÅÆ.png</file>
+
+        <!-- UI -->
+        <file>assets/images/ui/¶Ô»°¿òµ×¿ò.png</file>
+        <file>assets/images/ui/Ñ¡Ïî¿ò.png</file>
+
+        <!-- BGM -->
+        <file>assets/audio/bgm/±êÌâÒ³.mp3</file>
+        <file>assets/audio/bgm/ÂÖ»Ø´óÌü.mp3</file>
+        <file>assets/audio/bgm/´ºÖ®Í¥.mp3</file>
+        <file>assets/audio/bgm/´ºÖ®Í¥_ºÚ»¯.mp3</file>
+        <file>assets/audio/bgm/ÏÄÖ®¸ó.mp3</file>
+        <file>assets/audio/bgm/ÏÄÖ®¸ó_ºÚ»¯.mp3</file>
+        <file>assets/audio/bgm/ÇïÖ®ìô.mp3</file>
+        <file>assets/audio/bgm/ÇïÖ®ìô_ºÚ»¯.mp3</file>
+        <file>assets/audio/bgm/¶¬Ö®Ì³.mp3</file>
+        <file>assets/audio/bgm/¶¬Ö®Ì³_ºÚ»¯.mp3</file>
+        <file>assets/audio/bgm/Õæ½á¾Ö.mp3</file>
+        <file>assets/audio/bgm/½á¾ÖÒ³.mp3</file>
+
+        <!-- ÓïÒô£ºÅÔ°× -->
+        <file>assets/audio/voice/narrator/narrator_001.mp3</file>
+        <file>assets/audio/voice/narrator/narrator_003.mp3</file>
+        <file>assets/audio/voice/narrator/narrator_004.mp3</file>
+        <file>assets/audio/voice/narrator/narrator_005.mp3</file>
+        <file>assets/audio/voice/narrator/narrator_007.mp3</file>
+        <file>assets/audio/voice/narrator/narrator_008.mp3</file>
+        <file>assets/audio/voice/narrator/narrator_009.mp3</file>
+        <file>assets/audio/voice/narrator/narrator_010.mp3</file>
+        <file>assets/audio/voice/narrator/narrator_012.mp3</file>
+        <file>assets/audio/voice/narrator/narrator_013.mp3</file>
+        <file>assets/audio/voice/narrator/narrator_015.mp3</file>
+        <file>assets/audio/voice/narrator/narrator_016.mp3</file>
+        <file>assets/audio/voice/narrator/narrator_018.mp3</file>
+        <file>assets/audio/voice/narrator/narrator_019.mp3</file>
+        <file>assets/audio/voice/narrator/narrator_020.mp3</file>
+        <file>assets/audio/voice/narrator/narrator_021.mp3</file>
+        <file>assets/audio/voice/narrator/narrator_022.mp3</file>
+
+        <!-- ÓïÒô£ºËÕİÀç£ -->
+        <file>assets/audio/voice/sujinshu/sujinshu_001.mp3</file>
+        <file>assets/audio/voice/sujinshu/sujinshu_002.mp3</file>
+        <file>assets/audio/voice/sujinshu/sujinshu_003.mp3</file>
+        <file>assets/audio/voice/sujinshu/sujinshu_004.mp3</file>
+        <file>assets/audio/voice/sujinshu/sujinshu_005.mp3</file>
+        <file>assets/audio/voice/sujinshu/sujinshu_006.mp3</file>
+        <file>assets/audio/voice/sujinshu/sujinshu_007.mp3</file>
+        <file>assets/audio/voice/sujinshu/sujinshu_008.mp3</file>
+        <file>assets/audio/voice/sujinshu/sujinshu_009.mp3</file>
+        <file>assets/audio/voice/sujinshu/sujinshu_010.mp3</file>
+        <file>assets/audio/voice/sujinshu/sujinshu_011.mp3</file>
+        <file>assets/audio/voice/sujinshu/sujinshu_012.mp3</file>
+
+        <!-- ÓïÒô£º¹ËÖªÀ½ -->
+        <file>assets/audio/voice/guzhilan/guzhilan_001.mp3</file>
+        <file>assets/audio/voice/guzhilan/guzhilan_002.mp3</file>
+        <file>assets/audio/voice/guzhilan/guzhilan_003.mp3</file>
+        <file>assets/audio/voice/guzhilan/guzhilan_004.mp3</file>
+        <file>assets/audio/voice/guzhilan/guzhilan_005.mp3</file>
+        <file>assets/audio/voice/guzhilan/guzhilan_006.mp3</file>
+        <file>assets/audio/voice/guzhilan/guzhilan_007.mp3</file>
+        <file>assets/audio/voice/guzhilan/guzhilan_008.mp3</file>
+        <file>assets/audio/voice/guzhilan/guzhilan_009.mp3</file>
+        <file>assets/audio/voice/guzhilan/guzhilan_010.mp3</file>
+        <file>assets/audio/voice/guzhilan/guzhilan_011.mp3</file>
+
+        <!-- ÓïÒô£º½ª¼ÄŞ¿ -->
+        <file>assets/audio/voice/jiangjiheng/jiangjiheng_001.mp3</file>
+        <file>assets/audio/voice/jiangjiheng/jiangjiheng_002.mp3</file>
+        <file>assets/audio/voice/jiangjiheng/jiangjiheng_003.mp3</file>
+        <file>assets/audio/voice/jiangjiheng/jiangjiheng_004.mp3</file>
+        <file>assets/audio/voice/jiangjiheng/jiangjiheng_005.mp3</file>
+        <file>assets/audio/voice/jiangjiheng/jiangjiheng_006.mp3</file>
+        <file>assets/audio/voice/jiangjiheng/jiangjiheng_007.mp3</file>
+        <file>assets/audio/voice/jiangjiheng/jiangjiheng_008.mp3</file>
+        <file>assets/audio/voice/jiangjiheng/jiangjiheng_009.mp3</file>
+        <file>assets/audio/voice/jiangjiheng/jiangjiheng_010.mp3</file>
+
+        <!-- ÓïÒô£ºĞ»ÔÆçº -->
+        <file>assets/audio/voice/xieyunwan/xieyunwan_001.mp3</file>
+        <file>assets/audio/voice/xieyunwan/xieyunwan_002.mp3</file>
+        <file>assets/audio/voice/xieyunwan/xieyunwan_003.mp3</file>
+        <file>assets/audio/voice/xieyunwan/xieyunwan_004.mp3</file>
+        <file>assets/audio/voice/xieyunwan/xieyunwan_005.mp3</file>
+        <file>assets/audio/voice/xieyunwan/xieyunwan_006.mp3</file>
+        <file>assets/audio/voice/xieyunwan/xieyunwan_007.mp3</file>
+        <file>assets/audio/voice/xieyunwan/xieyunwan_008.mp3</file>
+        <file>assets/audio/voice/xieyunwan/xieyunwan_009.mp3</file>
+        <file>assets/audio/voice/xieyunwan/xieyunwan_010.mp3</file>
+
+        <!-- ÓïÒô£ºÍæ¼Ò -->
+        <file>assets/audio/voice/player/player_001.mp3</file>
+        <file>assets/audio/voice/player/player_002.mp3</file>
+        <file>assets/audio/voice/player/player_003.mp3</file>
+        <file>assets/audio/voice/player/player_004.mp3</file>
+        <file>assets/audio/voice/player/player_005.mp3</file>
+        <file>assets/audio/voice/player/player_006.mp3</file>
+        <file>assets/audio/voice/player/player_007.mp3</file>
+        <file>assets/audio/voice/player/player_008.mp3</file>
+        <file>assets/audio/voice/player/player_009.mp3</file>
+        <file>assets/audio/voice/player/player_010.mp3</file>
+        <file>assets/audio/voice/player/player_011.mp3</file>
+        <file>assets/audio/voice/player/player_012.mp3</file>
+        <file>assets/audio/voice/player/player_013.mp3</file>
+        <file>assets/audio/voice/player/player_014.mp3</file>
+        <file>assets/audio/voice/player/player_015.mp3</file>
+        <file>assets/audio/voice/player/player_016.mp3</file>
+        <file>assets/audio/voice/player/player_017.mp3</file>
+        <file>assets/audio/voice/player/player_018.mp3</file>
+    </qresource>
+</RCC>
